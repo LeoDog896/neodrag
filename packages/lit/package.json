@@ -51,5 +51,8 @@
 	"devDependencies": {
 		"@neodrag/core": "workspace:*",
 		"@neodrag/tsup-config": "workspace:*"
+	},
+	"dependencies": {
+		"lit": "^2.6.1"
 	}
 }
